@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #B5B5B5;
+    color: #68228B;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+*::-webkit-scrollbar { width: 12px;}
+
+*::-webkit-scrollbar-track { background: #B5B5B5; }
+
+*::-webkit-scrollbar-thumb {
+    background-color: #68228B;
+    border-radius: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.9);
+}
+
+header {
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    height: 70px;
+    background-color: #68228B;
+    border-bottom: 3px solid #B5B5B5;
+}
+
+header {
+    display: flex;
+}
+
+header ul li {
+    display: inline-flex;
+    text-transform: capitalize;
+    
+}
+
+nav {
+    display: flex;
+}
+
+header a {
+    text-decoration: none;
+    color: #B5B5B5;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.banner {
+    height: 200px;
+    width: screen;
+    background-color: #68228B;
+}
+
+#sobre {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000;
+    height: 350px;
+    width: 80%;
+    background-color: #68228B;
+}
+
+#sobre h1{
+    height: 350px;
+    background-color: #68228B;
+}
+
+#sobre article{
+    height: 350px;
+    background-color: #68228B;
+}
+
+#criadores article:nth-child(1){
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    width: 80%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.article-1 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: space-evenly;
+    align-items: center;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.article-1 h2 {
+    font-size: 3rem;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px #000;
+} 
+
+.article-1 figure img {
+    position: relative;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px #000;
+}
+
+#criadores article:nth-child(2){
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    width: 80%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.article-2 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: space-evenly;
+    align-items: center;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.article-2 h2 {
+    font-size: 3rem;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px #000;
+} 
+
+.article-2 figure img {
+    position: relative;
+    margin-right: 100px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px #000;
+}
+
