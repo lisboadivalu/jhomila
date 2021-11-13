@@ -235,6 +235,7 @@ header a {
         margin-bottom: 10px;
         box-shadow: none;
         border: none;
+        width: 90%;
         left: 0;
         transform: translate(0);
     }
