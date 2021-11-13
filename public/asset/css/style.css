@@ -183,10 +183,7 @@ header a {
 
 @media screen and (max-width: 992px) {
 
-    header {
-        
-        position: absolute;
-    }
+    
 
     nav {
         position: fixed;
@@ -195,7 +192,7 @@ header a {
         background: none;
         border: none;
         box-shadow: none;
-        height: 30px;
+        height: auto;
         width: screen;
     }
 
@@ -209,6 +206,8 @@ header a {
     }
 
     .nav-ul.show {
+        position: fixed;
+        margin: 0;
         display: flex;
         flex-direction: column;
         width: 100%;
