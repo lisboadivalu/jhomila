@@ -2,7 +2,7 @@
     <nav class="navbar-desktop">
         <ul>
             <li>
-                <a href="index.php">Home</a>
+                <a href="#sobre">Home</a>
             </li> 
             <li>
                 <a href="#criador">Criadores</a>
