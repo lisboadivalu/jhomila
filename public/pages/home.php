@@ -18,7 +18,7 @@
                 </p>
             </div>
             <figure>
-                <img src="../asset/img/jhosyton.jpeg" alt="Foto do Jhosyton Correia">
+                <img src="public/asset/img/jhosyton.jpeg" alt="Foto do Jhosyton Correia">
             </figure>
         </div>
     </article>
@@ -26,7 +26,7 @@
     <article>
         <div class="article-2">
             <figure>
-                <img src="../asset/img/camila.jpeg" alt="Foto da Camila Corrêa">
+                <img src="public/asset/img/camila.jpeg" alt="Foto da Camila Corrêa">
             </figure>
             <div class="description">
             <h2>Camila Corrêa</h2>

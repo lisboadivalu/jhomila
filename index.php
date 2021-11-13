@@ -15,6 +15,6 @@
 
 </body>
 
-<script src="asset/js/jquery-3.6.0.min.js"></script>
-<script src="asset/js/main.js" ></script>
+<script src="public/asset/js/jquery-3.6.0.min.js"></script>
+<script src="public/asset/js/app.js" ></script>
 </html>
