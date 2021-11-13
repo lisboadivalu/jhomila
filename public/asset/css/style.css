@@ -40,7 +40,7 @@ nav {
     background: transparent;
     border: 0;
     font-size: 20px;
-    color: #68228B;
+    color: rgba(0, 0, 0, 0.7);
     cursor: pointer;
 }
 
@@ -226,9 +226,6 @@ header a {
         margin-top: 10px;
     }
     
-    .hamburguer:focus { 
-        color: #B5B5B5;
-    }
 
     #sobre {
         margin-top: 10px;
