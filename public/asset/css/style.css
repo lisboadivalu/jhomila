@@ -19,24 +19,26 @@ body {
 header {
     position: fixed;
     z-index: 2;
+    display: flex;
+    top: 0;
+    box-shadow: 0 0 7px #000;
     width: 100%;
     height: 70px;
     background-color: #68228B;
-    border-bottom: 3px solid #B5B5B5;
+   
 }
 
-header {
-    display: flex;
+header ul {
+    position: relative;
+    margin-top: 25px;
+    justify-content: space-around;
+
 }
 
 header ul li {
+    position: relative;
     display: inline-flex;
     text-transform: capitalize;
-    
-}
-
-nav {
-    display: flex;
 }
 
 header a {
@@ -44,6 +46,8 @@ header a {
     color: #B5B5B5;
     font-weight: bolder;
     text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    margin: 0 15px 0 15px;
 }
 
 .banner {
@@ -58,27 +62,42 @@ header a {
     transform: translate(-50%);
     display: flex;
     flex-direction: column;
-    border: 1px solid #000;
-    height: 350px;
+    margin: 200px 0 80px 0;
+    max-height: 350px;
     width: 80%;
-    background-color: #68228B;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    box-shadow: 0 0 20px #000;
 }
 
-#sobre h1{
-    height: 350px;
-    background-color: #68228B;
+#sobre h2{
+    position: relative;
+    left: 5%;
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    text-shadow: 0px 0px 3px #000;
+    
 }
 
 #sobre article{
     height: 350px;
-    background-color: #68228B;
+    margin: 0;
+    text-align: center;
+}
+
+#sobre article p{
+    font-size: 1.3rem;
+    margin-left: 80px;
+    text-shadow: 0px 0px 1px #000;
 }
 
 #criadores article:nth-child(1){
     position: relative;
     display: flex;
     flex-direction: row;
-    margin-top: 80px;
+    margin-top: 20px;
     margin-bottom: 40px;
     width: 80%;
     left: 50%;
@@ -99,7 +118,7 @@ header a {
 .article-1 h2 {
     font-size: 3rem;
     font-weight: bolder;
-    text-shadow: 1px 1px 3px #000;
+    text-shadow: 0px 0px 3px #000;
 } 
 
 .article-1 figure img {
@@ -133,7 +152,7 @@ header a {
 .article-2 h2 {
     font-size: 3rem;
     font-weight: bolder;
-    text-shadow: 1px 1px 3px #000;
+    text-shadow: 0px 0px 3px #000;
 } 
 
 .article-2 figure img {
@@ -144,3 +163,6 @@ header a {
     box-shadow: 0px 0px 20px #000;
 }
 
+.description {
+    text-shadow: 0px 0px 1px #000;
+}

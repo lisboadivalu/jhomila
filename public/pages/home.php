@@ -1,12 +1,14 @@
 <section id="sobre">
     <h2>Canal Jhomila</h2>
     <article>
-        p
+        <p>
+        "Se você gosta de ciência, história e curiosidades em geral, esse canal é feito para você!"
+        </p>
     </article>
 </section>
 
 <section id="criadores">
-    <article>
+    <article id="criador">
         <div class="article-1">        
             <div class="description">
                 <h2>Jhosyton Correia</h2>

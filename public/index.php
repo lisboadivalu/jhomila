@@ -13,8 +13,6 @@
 
 <?php require 'pages/component/navbar.php'; ?>
 
-<?php require 'pages/component/banner.php'; ?>
-
 <?php require load(); ?>
 
 </body>
