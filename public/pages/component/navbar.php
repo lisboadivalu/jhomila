@@ -1,8 +1,8 @@
-<header>
-    <nav>
+<header >
+    <nav class="navbar-desktop">
         <ul>
             <li>
-                <a href="../../index.php">Home</a>
+                <a href="index.php">Home</a>
             </li> 
             <li>
                 <a href="#criador">Criadores</a>
@@ -16,7 +16,17 @@
             <li>
                 <a href="https://www.instagram.com/canaljhomila/" target="_blank">instagram</a>
             </li>
-        </ul>   
+        </ul>
     </nav>
+    <div id="btnBurguer" class="burguer-container" onclick="menuFunction(this)">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+    </div>
 </header>
+
+
+
+
+
 
