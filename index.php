@@ -11,10 +11,6 @@
 
 <?php require 'pages/component/navbar.php'; ?>
 
-<<<<<<< HEAD:public/index.php
-
-=======
->>>>>>> 5002bd252c819e9bc28713a2541ea5b4cbc2a7fb:index.php
 </body>
 
 <script src="asset/js/jquery-3.6.0.min.js"></script>
