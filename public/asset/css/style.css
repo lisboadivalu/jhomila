@@ -197,6 +197,7 @@ footer a {
     text-decoration: none;
     color: #B5B5B5;
 }
+
 footer a:hover {
     text-decoration: none;
     color: #8B8378;
@@ -314,7 +315,10 @@ footer a:hover {
         width: 95vw;
     }
 
-    
+    footer a {
+        text-decoration: none;
+        color: #6e6e6e;
+    }
 
 }
 
