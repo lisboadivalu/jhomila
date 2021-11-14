@@ -17,6 +17,8 @@
 
 <?php require 'public/pages/home.php'; ?>
 
+<?php require 'public/pages/component/footer.php'; ?>
+
 </body>
 
 <script src="public/asset/js/app.js" ></script>

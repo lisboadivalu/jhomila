@@ -181,6 +181,27 @@ header a {
     max-width: 680px;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    background-color: #68228B;
+    text-align: center;
+    color: #B5B5B5;
+    text-shadow: 0 0 2px #000;
+    font-size: 1.2rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: #B5B5B5;
+}
+footer a:hover {
+    text-decoration: none;
+    color: #8B8378;
+}
+
 @media screen and (max-width: 992px) {
 
     
@@ -292,6 +313,8 @@ header a {
     .description {
         width: 95vw;
     }
+
+    
 
 }
 
