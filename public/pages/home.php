@@ -1,13 +1,11 @@
 <section id="sobre">
-    <h2>Canal Jhomila</h2>
-    <article>
-        <p>
-        "Se você gosta de ciência, história e curiosidades em geral, esse canal é feito para você!"
-        </p>
-    </article>
+    <iframe src="https://www.youtube.com/embed/mfLe2TKVo0s" width="70%"  frameborder="0">
+        
+    </iframe>
 </section>
 
 <section id="criadores">
+    <h2 id="titulo">Criadores do Canal</h2>
     <article id="criador">
         <div class="article-1">        
             <div class="description">
