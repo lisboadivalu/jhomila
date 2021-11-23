@@ -197,8 +197,6 @@ footer a:hover {
 
 @media screen and (max-width: 992px) {
 
-    
-
     nav {
         position: fixed;
         float: right;
@@ -230,7 +228,6 @@ footer a:hover {
         text-shadow: 0 0 2px #000;
     }
 
-
     .hamburguer { 
         position: fixed;
         display: block;
@@ -239,7 +236,6 @@ footer a:hover {
         margin-top: 10px;
     }
     
-
     #sobre {
         display: flex;
         margin-top: 10px;
@@ -268,6 +264,7 @@ footer a:hover {
     .article-1 {
         flex-direction: column-reverse;
         text-align: center;
+        padding-bottom: 100px;
     }
 
     .article-1 h2{

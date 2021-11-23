@@ -11,8 +11,10 @@
             <div class="description">
                 <h2>Jhosyton Correia</h2>
                 <p>
-                Mussum Ipsum, cacilds vidis litro abertis. A ordem dos tratores não altera o pão duris. Detraxit consequat et quo num tendi nada. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Viva Forevis aptent taciti sociosqu ad litora torquent.
-                Mussum Ipsum, cacilds vidis litro abertis. A ordem dos tratores não altera o pão duris. Detraxit consequat et quo num tendi nada. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Viva Forevis aptent taciti sociosqu ad litora torquent.
+                    Graduado em Ciências Biológicas, especialista em ciências da Saúde e em Anfíbios e Répteis.</p>
+                    Atua como Biólogo, Youtuber e Professor de Ciências Biológicas.
+                    Curte um jogatina, em especial games Single Player.
+                    Super fã de Resident Evil e amante de gatos. Brabo
                 </p>
             </div>
             <figure>

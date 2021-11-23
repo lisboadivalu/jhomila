@@ -5,7 +5,7 @@
                 <a href="index.php">Home</a>
             </li> 
             <li>
-                <a href="#criador">Criadores</a>
+                <a href="#titulo-criadores">Criadores</a>
             </li> 
             <li>
                 <a href="#sobre">Sobre</a>
