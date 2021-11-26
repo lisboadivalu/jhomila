@@ -31,7 +31,9 @@
             <div class="description">
             <h2>Camila Corrêa</h2>
                 <p>
-                Mussum Ipsum, cacilds vidis litro abertis. A ordem dos tratores não altera o pão duris. Detraxit consequat et quo num tendi nada. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Viva Forevis aptent taciti sociosqu ad litora torquent.
+                Olá, eu me chamo Camila! 
+                Sou formada em ciências biológicas e gosto muito de ler. Sou apaixonada por gatos e tatuagens! 
+                Amo tudo que envolva o universo do terror e gosto de assistir documentários e vídeos sobre casos criminais, mistérios e ufologia. Tanto que criamos um segundo canal onde falo só sobre essas temáticas.
                 </p>
             </div>
         </div>
